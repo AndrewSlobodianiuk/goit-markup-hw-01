@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# env
+.env
+.env*
+!.env.example
+.venv
+
+# vendor settings
+.vscode/
